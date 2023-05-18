@@ -1,0 +1,23 @@
+.content {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100vh;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 150px;
+}
+
+.icon {
+  margin-right: 8px;
+}
+
+.count {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 16px;
+  color: red;
+}

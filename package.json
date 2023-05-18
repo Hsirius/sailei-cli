@@ -1,0 +1,26 @@
+{
+  "name": "my-cli",
+  "version": "1.0.0",
+  "description": "a react project cli for sailei use",
+  "main": "index.js",
+  "bin": {
+    "sailei": "./bin/sailei.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "10.0.1",
+    "deepmerge": "^4.3.1",
+    "ejs": "^3.1.9",
+    "execa": "^5.0.0",
+    "fs-extra": "^11.1.1",
+    "globby": "11.0.2",
+    "inquirer": "8.2.5",
+    "isbinaryfile": "^5.0.0",
+    "slash": "3.0.0"
+  }
+}
