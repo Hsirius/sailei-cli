@@ -1,6 +1,6 @@
 {
-  "name": "my-cli",
-  "version": "1.0.0",
+  "name": "sailei-cli",
+  "version": "1.0.1",
   "description": "a react project cli for sailei use",
   "main": "index.js",
   "bin": {
